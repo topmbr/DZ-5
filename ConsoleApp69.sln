@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp69", "ConsoleApp69\ConsoleApp69.csproj", "{B73ED8A3-6B36-46FE-B224-63E47F7A0296}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirstApp", "FirstApp\FirstApp.csproj", "{C21AC731-97D7-4BC4-857A-2D349A5D1C75}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SecondApp", "SecondApp\SecondApp.csproj", "{853932EC-793E-4453-8F90-E7DE04E971BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B73ED8A3-6B36-46FE-B224-63E47F7A0296}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B73ED8A3-6B36-46FE-B224-63E47F7A0296}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B73ED8A3-6B36-46FE-B224-63E47F7A0296}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B73ED8A3-6B36-46FE-B224-63E47F7A0296}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C21AC731-97D7-4BC4-857A-2D349A5D1C75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C21AC731-97D7-4BC4-857A-2D349A5D1C75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C21AC731-97D7-4BC4-857A-2D349A5D1C75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C21AC731-97D7-4BC4-857A-2D349A5D1C75}.Release|Any CPU.Build.0 = Release|Any CPU
+		{853932EC-793E-4453-8F90-E7DE04E971BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{853932EC-793E-4453-8F90-E7DE04E971BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{853932EC-793E-4453-8F90-E7DE04E971BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{853932EC-793E-4453-8F90-E7DE04E971BD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {03697297-5999-4118-BE8F-A29881A44D70}
+	EndGlobalSection
+EndGlobal
